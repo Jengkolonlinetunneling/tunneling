@@ -18,7 +18,13 @@ Auto Script Install JENGKOLONLINE
 <p align="center"><img src="https://img.shields.io/badge/Service-SSH_OpenSSH-success.svg">  <img src="https://img.shields.io/badge/Service-SSH_Dropbear-success.svg">  <img src="https://img.shields.io/badge/Service-BadVPN-success.svg">  <img src="https://img.shields.io/badge/Service-OpenVPN-success.svg">  <img src="https://img.shields.io/badge/Service-Squid3-success.svg">  <img   src="https://img.shields.io/badge/Service-Webmin-success.svg">  <img src="https://img.shields.io/badge/Service-SlowDns-success.svg">  <p align="center"><img src="https://img.shields.io/badge/Service-XRAY-success.svg">  <img src="https://img.shields.io/badge/Service-XRAY_Websocket_TLS-success.svg">  <img src="https://img.shields.io/badge/Service-XRAY_VLESS_VMESS-success.svg">  <img src="https://img.shields.io/badge/Service-XRAY_gRPC_VLESS_VMESS-success.svg">  <img src="https://img.shields.io/badge/Service-XRAY_TROJAN-success.svg">  <p align="center"><img src="https://img.shields.io/badge/Service-SSR-success.svg">  <img src="https://img.shields.io/badge/Service-Trojan_Go-success.svg">  <img src="https://img.shields.io/badge/Service-WireGuard-success.svg">  <img src= "https://img.shields.io/badge/Service-Shadowsocks_WS-success.svg">  <img src= "https://img.shields.io/badge/Service-Shadowsocks_None_WS-success.svg"> <img src= "https://img.shields.io/badge/Service-Shadowsocks_Grpc-success.svg"> <img src= "https://img.shields.io/badge/Service-Shadowsocks_RR-success.svg">  <img src= "https://img.shields.io/badge/Service-Shadowsocks_Live-success.svg">  <img src= "https://img.shields.io/badge/Service-UDP-success.svg">
 
 # BERLICENCY, HUBUNGI WA DI BAWAH JIKA INGIN MENGGUNAKANNYA
-https://w.me//6282372139631
+____________________________________________
+|Onwer         ➡️ https://w.me//6282372139631
+|____________________________________________
+|Grub WA       ➡️ https://chat.whatsapp.com/BhTsQsmlqWbAvqf2xS2RY1
+|____________________________________________
+|Telegram Grub ➡️
+|____________________________________________
 # Ling Instalasi
 <pre><code>wget --no-check-certificate https://jengkolonline.biz.id/setup.sh && chmod +x setup.sh && ./setup.sh</code></pre>
 
