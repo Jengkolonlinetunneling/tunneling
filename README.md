@@ -126,7 +126,7 @@ ____________________________________________
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=azure-devops&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=plastic&logo=Cloudflare&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=plastic&logo=digitalOcean&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=plastic&logo=openstack&logoColor=white) ![Scaleway](https://img.shields.io/badge/SCALEWAY-%234f0599.svg?style=plastic&logo=scaleway&logoColor=white)
 
 # 🖼️ Image
-<a href="https://ibb.co/tZS8342"><img src="https://i.ibb.co/7gH2bXp/Screenshot-2023-07-23-22-04-27-55-6012fa4d4ddec268fc5c7112cbb265e7.png" alt="Screenshot-2023-07-23-22-04-27-55-6012fa4d4ddec268fc5c7112cbb265e7" border="0" /></a>
+<img src="https://i.ibb.co/7gH2bXp/Screenshot-2023-07-23-22-04-27-55-6012fa4d4ddec268fc5c7112cbb265e7.png" alt="Screenshot-2023-07-23-22-04-27-55-6012fa4d4ddec268fc5c7112cbb265e7" border="0" /></a>
 
 
 
