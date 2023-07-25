@@ -25,8 +25,7 @@ Grub WA       ➡️ https://chat.whatsapp.com/BhTsQsmlqWbAvqf2xS2RY1
 
 Telegram Grub ➡️ https://t.me/+ufCEJGkoEuE5MDU9
 
-# Ling Instalasi
-<pre><code>wget --no-check-certificate https://jengkolonline.biz.id/setup.sh && chmod +x setup.sh && ./setup.sh</code></pre>
+# INFO PORT SERVICE
 
 ____________________________________________
 |        SERVICE          |      PORT      |
